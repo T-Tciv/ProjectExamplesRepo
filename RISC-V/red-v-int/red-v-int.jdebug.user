@@ -1,0 +1,17 @@
+
+
+
+Breakpoint=0x00001018, State=BP_STATE_DISABLED
+OpenDocument="main.s", FilePath="/home/mike/prj/risc-v/sw/red-v-int/src/main.s", Line=0
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=2768, h=472, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=2768, h=906, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=364, h=616, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x200BFF8
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=2721, h=616, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 2", DockArea=BOTTOM, x=2, y=0, w=366, h=616, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x80000000
+OpenWindow="Memory 3", DockArea=BOTTOM, x=3, y=0, w=371, h=616, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x10008000
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[447;206;2099]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[27;27;27;33]
