@@ -30,7 +30,7 @@ print("Запущен конвейер по обработке выборок")
 
 args_list = sys.argv
 
-artsite_file_name = args_list[1] # Этот параметр на самом деле не учитывается сейчас, исходный файл всегда in.txt, так удобнее (но могу поменять)
+artsite_file_name = args_list[1]
 print("Имя входного файла (ARTSITE): " + artsite_file_name)
 print()
 
