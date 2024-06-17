@@ -1,0 +1,23 @@
+C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/hdl/fp.sv {1 {vlog -work work -sv -stats=none C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/hdl/fp.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fp
+
+Top level modules:
+	fp
+
+} {} {}} C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/hdl/lib.sv {1 {vlog -work work -sv -stats=none C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/hdl/lib.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module priority_encoder
+-- Compiling module Addition_Subtraction
+
+Top level modules:
+	Addition_Subtraction
+
+} {} {}} C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/testbenches/fp_tb.sv {1 {vlog -work work -sv -stats=none C:/work/yadroImpulsRtlTest/task1/fp_comb_Nsum/testbenches/fp_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
